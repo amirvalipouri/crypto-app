@@ -6,12 +6,12 @@ function Layout({ children }) {
       <header className={styles.header}>
         <h1>CRYPTO APP</h1>
         <p>
-          <a href="https://react.dev/">React</a> | Farzad Esmaeilzadeh
+          <a href="https://github.com/amirvalipouri">Amir valipouri</a>
         </p>
       </header>
       {children}
       <footer className={styles.footer}>
-        <p>Developed by FeriEs with ❤️</p>
+        <p>Developed with ❤️</p>
       </footer>
     </>
   );
